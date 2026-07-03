@@ -12,3 +12,4 @@ This project models basic electronics components using **Class**.
 ## Run
 '''bash
 python main.py# Electronics-Small-Store
+# Electronics-Small-Store
